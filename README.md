@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=Abhilash24.github.io&style=for-the-badge&url=https%3A%2F%2FAbhilash24.github.io)](https://abhilash24.github.io)
 
 
-[![Node.js CI](https://github.com/Abhilash24/Abhilash24.github.io/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/Abhilash24/Abhilash24.github.io/actions/workflows/node.js.yml)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
